@@ -1,0 +1,7 @@
+,Data,Cliente,Ativo,Preco,Quantidade,Tipo
+0,2024-01-05,A,PETR4,30.0,100,Compra
+1,2024-01-10,B,VALE3,70.0,50,Compra
+2,2024-01-15,A,PETR4,32.0,150,Venda
+3,2024-02-01,B,ITUB4,28.0,200,Compra
+4,2024-02-10,C,VALE3,72.0,80,Venda
+5,2024-02-20,A,ITUB4,29.0,120,Venda
